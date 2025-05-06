@@ -1,0 +1,15 @@
+.greet {
+   
+}
+.greet__content{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.container {}
+
+.greet__info {}
+
+.greet__title {}
+
+.greet__text {}
