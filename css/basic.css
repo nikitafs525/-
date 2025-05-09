@@ -42,27 +42,5 @@ ul, ol{
 }
 
 
-.greet-title{
-    font-family: var(--third-family);
-        font-weight: 700;
-        font-size: 64px;
-        line-height: 125%;
-        color: #202336;
-}
-.greet__text{
-    font-family: var(--font-family);
-        font-weight: 600;
-        font-size: 22px;
-        color: #202336;
 
-}
-.button{
-    font-weight: 700;
-        font-size: 17px;
-        line-height: 353%;
-        color: #fff; width: 180px;
-    height: 49px;
-    background: #fb8f1d;
-    font-family: var(--second-family);
-       
-}
+
