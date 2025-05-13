@@ -1,0 +1,33 @@
+.header {}
+
+.nav {}
+
+.nav__list {
+    display: flex;
+    column-gap: 30px;
+    justify-content: end;
+    align-items: center;
+}
+
+.nav__item {}
+
+.btn-login {font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 15px;
+    background-color: transparent;
+    color: #fb8f1d;
+    border: 1px solid #fb8f1d;
+    border-radius: 8px;
+    padding: 20px 40px;}
+
+.btn {}
+
+.btn-reg {font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    background: #fb8f1d;
+    padding: 20px 40px;
+}

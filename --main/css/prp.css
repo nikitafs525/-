@@ -1,0 +1,49 @@
+:root {
+    --font-family: "Inter", sans-serif;
+    --second-family: "Mulish", sans-serif;
+    --third-family: "Playfair Display", sans-serif;
+}
+
+.prp {}
+
+.container {}
+
+.prp__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.prp__info {
+    max-width: 476px;
+}
+
+.prp__title {
+    font-family: var(--third-family);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 139%;
+    color: #000;
+}
+
+.prp_text {
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 176%;
+    color: #7d7987;
+    margin-top: 19px;
+}
+
+.btn {}
+
+.prp__btn {font-weight: 700;
+    font-size: 17px;
+    color: #fff;
+    background: #fb8f1d;
+    font-family: var(--second-family);
+    border-radius: 8px;
+    padding: 15px 25px;
+    border: none;
+    margin-top: 30px;
+}
