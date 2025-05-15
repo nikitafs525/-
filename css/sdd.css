@@ -1,0 +1,40 @@
+.sdd {
+ 
+}
+.sdd__info-title{
+    display: flex;
+    justify-content: space-between;
+}
+.container {}
+
+.sdd__content {
+ 
+}
+
+.sdd__info {
+    width: 1120px;
+    height: 503px;
+    margin-top: 34px;
+}
+.sdd__title{
+    font-family: var(--third-family);
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 139%;
+        color: #000;
+}
+
+
+.sdd__text{
+    font-family: var(--font-family);
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 353%;
+        color: #fb8f1d;
+}
+
+.sdd__card{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+}

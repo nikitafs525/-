@@ -1,0 +1,19 @@
+.af {}
+
+.container {}
+
+.af__contnent {}
+
+.af__info {}
+
+.af__info-title {}
+
+.af__title {
+    font-family: var(--second-family);
+        font-weight: 700;
+        font-size: 19px;
+        line-height: 316%;
+        color: #000;
+}
+
+.af__text {}
